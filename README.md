@@ -7,7 +7,7 @@
     <img alt="youtube views" title="wiew" src="https://img.shields.io/youtube/channel/views/UCoZNJW56-6KHh_OqScjh6TQ?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=ff7300"/></a> 
   <a href="https://github.com/tilku55">
     <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/tilku55?color=236ad3&labelColor=ff7300&style=for-the-badge&logo=github&label=TakipEt"/></a>
-<img alt="Discord" src="https://lanyard-profile-readme.vercel.app/api/985992390286385162?theme=dark&bg=000000">
+<img alt="Discord" title="Discord" src="https://lanyard-profile-readme.vercel.app/api/985992390286385162?theme=dark&bg=000000">
 </p>
 
 # Diğer Bağlantılar
